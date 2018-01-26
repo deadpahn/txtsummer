@@ -1,1 +1,4 @@
-# txtsummer
+-Move epub into folder.
+-Rename it "book.epub".
+-Run init.sh script.
+-Book should be converted to "book.ogg"
