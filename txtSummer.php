@@ -1,5 +1,4 @@
 <?php
-//check if line is Empty
 $masterText = file_get_contents('book.txt');
 $lines = explode("\n", $masterText);
 //clean text
